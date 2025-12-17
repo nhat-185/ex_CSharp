@@ -1,0 +1,14 @@
+D:\Desktop\C# in TÍM\bai4\ex_4CS\bin\Debug\net9.0\ex_4CS.exe
+D:\Desktop\C# in TÍM\bai4\ex_4CS\bin\Debug\net9.0\ex_4CS.deps.json
+D:\Desktop\C# in TÍM\bai4\ex_4CS\bin\Debug\net9.0\ex_4CS.runtimeconfig.json
+D:\Desktop\C# in TÍM\bai4\ex_4CS\bin\Debug\net9.0\ex_4CS.dll
+D:\Desktop\C# in TÍM\bai4\ex_4CS\bin\Debug\net9.0\ex_4CS.pdb
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ex_4CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ex_4CS.AssemblyInfoInputs.cache
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ex_4CS.AssemblyInfo.cs
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ex_4CS.csproj.CoreCompileInputs.cache
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ex_4CS.dll
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\refint\ex_4CS.dll
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ex_4CS.pdb
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ex_4CS.genruntimeconfig.cache
+D:\Desktop\C# in TÍM\bai4\ex_4CS\obj\Debug\net9.0\ref\ex_4CS.dll

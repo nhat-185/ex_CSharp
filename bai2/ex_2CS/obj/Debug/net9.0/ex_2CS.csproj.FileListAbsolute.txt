@@ -1,0 +1,14 @@
+D:\Desktop\C# in TÍM\bai2\ex_2CS\bin\Debug\net9.0\ex_2CS.exe
+D:\Desktop\C# in TÍM\bai2\ex_2CS\bin\Debug\net9.0\ex_2CS.deps.json
+D:\Desktop\C# in TÍM\bai2\ex_2CS\bin\Debug\net9.0\ex_2CS.runtimeconfig.json
+D:\Desktop\C# in TÍM\bai2\ex_2CS\bin\Debug\net9.0\ex_2CS.dll
+D:\Desktop\C# in TÍM\bai2\ex_2CS\bin\Debug\net9.0\ex_2CS.pdb
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ex_2CS.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ex_2CS.AssemblyInfoInputs.cache
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ex_2CS.AssemblyInfo.cs
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ex_2CS.csproj.CoreCompileInputs.cache
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ex_2CS.dll
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\refint\ex_2CS.dll
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ex_2CS.pdb
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ex_2CS.genruntimeconfig.cache
+D:\Desktop\C# in TÍM\bai2\ex_2CS\obj\Debug\net9.0\ref\ex_2CS.dll

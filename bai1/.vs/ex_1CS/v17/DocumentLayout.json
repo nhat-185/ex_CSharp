@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\C# in T\u00CDM\\bai1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB24253-1CE4-C819-1CAD-6F9E783CD5CF}|..\\bai5\\ex_5CS\\ex_5CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai5\\ex_5cs\\house.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9AC758-BBB8-75E1-0579-D08788DD4144}|..\\ex2\\ex2_1\\ex2_1.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_1\\program2_1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FC9AC758-BBB8-75E1-0579-D08788DD4144}|..\\ex2\\ex2_1\\ex2_1.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_1\\point2d.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB24253-1CE4-C819-1CAD-6F9E783CD5CF}|..\\bai5\\ex_5CS\\ex_5CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai5\\ex_5cs\\program5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB24253-1CE4-C819-1CAD-6F9E783CD5CF}|..\\bai5\\ex_5CS\\ex_5CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai5\\ex_5cs\\player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3EB24253-1CE4-C819-1CAD-6F9E783CD5CF}|..\\bai5\\ex_5CS\\ex_5CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai5\\ex_5cs\\dice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB18B64-8B78-D1E5-3892-9F12279100C9}|..\\ex2\\ex2_2\\ex2_2.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_2\\triangle.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DDB18B64-8B78-D1E5-3892-9F12279100C9}|..\\ex2\\ex2_2\\ex2_2.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_2\\program2_2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F69366E-B3E4-40BA-BA43-49E237758FD3}|..\\bai4\\ex_4CS\\ex_4CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai4\\ex_4cs\\program4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F69366E-B3E4-40BA-BA43-49E237758FD3}|..\\bai4\\ex_4CS\\ex_4CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai4\\ex_4cs\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6F69366E-B3E4-40BA-BA43-49E237758FD3}|..\\bai4\\ex_4CS\\ex_4CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai4\\ex_4cs\\item.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3643FB96-05A6-4C78-875E-1C05DD8D0F25}|..\\bai3\\ex_3CS\\ex_3CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai3\\ex_3cs\\program3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3643FB96-05A6-4C78-875E-1C05DD8D0F25}|..\\bai3\\ex_3CS\\ex_3CS.csproj|d:\\desktop\\c# in t\u00EDm\\bai3\\ex_3cs\\point.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 10,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Dice.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\Dice.cs",
+              "RelativeDocumentMoniker": "..\\bai5\\ex_5CS\\Dice.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\Dice.cs",
+              "RelativeToolTip": "..\\bai5\\ex_5CS\\Dice.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T15:09:52.797Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program2_2.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_2\\Program2_2.cs",
+              "RelativeDocumentMoniker": "..\\ex2\\ex2_2\\Program2_2.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_2\\Program2_2.cs",
+              "RelativeToolTip": "..\\ex2\\ex2_2\\Program2_2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:58:38.346Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Triangle.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_2\\Triangle.cs",
+              "RelativeDocumentMoniker": "..\\ex2\\ex2_2\\Triangle.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_2\\Triangle.cs",
+              "RelativeToolTip": "..\\ex2\\ex2_2\\Triangle.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAA9wBYAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:55:49.465Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Point2D.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_1\\Point2D.cs",
+              "RelativeDocumentMoniker": "..\\ex2\\ex2_1\\Point2D.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_1\\Point2D.cs",
+              "RelativeToolTip": "..\\ex2\\ex2_1\\Point2D.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAA/wAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:49:05.806Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program2_1.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_1\\Program2_1.cs",
+              "RelativeDocumentMoniker": "..\\ex2\\ex2_1\\Program2_1.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_1\\Program2_1.cs",
+              "RelativeToolTip": "..\\ex2\\ex2_1\\Program2_1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAAAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:49:13.897Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program5.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\Program5.cs",
+              "RelativeDocumentMoniker": "..\\bai5\\ex_5CS\\Program5.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\Program5.cs",
+              "RelativeToolTip": "..\\bai5\\ex_5CS\\Program5.cs",
+              "ViewState": "AgIAADQAAAAAAAAAAAAQwDQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:32:50.32Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program4.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Program4.cs",
+              "RelativeDocumentMoniker": "..\\bai4\\ex_4CS\\Program4.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Program4.cs",
+              "RelativeToolTip": "..\\bai4\\ex_4CS\\Program4.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:07:59.593Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Player.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\Player.cs",
+              "RelativeDocumentMoniker": "..\\bai5\\ex_5CS\\Player.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\Player.cs",
+              "RelativeToolTip": "..\\bai5\\ex_5CS\\Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAABKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:07:37.372Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "House.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\House.cs",
+              "RelativeDocumentMoniker": "..\\bai5\\ex_5CS\\House.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai5\\ex_5CS\\House.cs",
+              "RelativeToolTip": "..\\bai5\\ex_5CS\\House.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T14:07:31.475Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Order.cs",
+              "RelativeDocumentMoniker": "..\\bai4\\ex_4CS\\Order.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Order.cs",
+              "RelativeToolTip": "..\\bai4\\ex_4CS\\Order.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAA1wBgAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:21:21.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Item.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Item.cs",
+              "RelativeDocumentMoniker": "..\\bai4\\ex_4CS\\Item.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Item.cs",
+              "RelativeToolTip": "..\\bai4\\ex_4CS\\Item.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswCAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:17:30.408Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Program.cs",
+              "RelativeDocumentMoniker": "..\\bai4\\ex_4CS\\Program.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai4\\ex_4CS\\Program.cs",
+              "RelativeToolTip": "..\\bai4\\ex_4CS\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-04T01:17:11.831Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Point.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai3\\ex_3CS\\Point.cs",
+              "RelativeDocumentMoniker": "..\\bai3\\ex_3CS\\Point.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai3\\ex_3CS\\Point.cs",
+              "RelativeToolTip": "..\\bai3\\ex_3CS\\Point.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:43:18.468Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program3.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\bai3\\ex_3CS\\Program3.cs",
+              "RelativeDocumentMoniker": "..\\bai3\\ex_3CS\\Program3.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\bai3\\ex_3CS\\Program3.cs",
+              "RelativeToolTip": "..\\bai3\\ex_3CS\\Program3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-03T16:43:50.291Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\bin\Debug\net9.0\ex2_4.exe
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\bin\Debug\net9.0\ex2_4.deps.json
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\bin\Debug\net9.0\ex2_4.runtimeconfig.json
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\bin\Debug\net9.0\ex2_4.dll
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\bin\Debug\net9.0\ex2_4.pdb
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ex2_4.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ex2_4.AssemblyInfoInputs.cache
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ex2_4.AssemblyInfo.cs
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ex2_4.csproj.CoreCompileInputs.cache
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ex2_4.dll
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\refint\ex2_4.dll
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ex2_4.pdb
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ex2_4.genruntimeconfig.cache
+D:\Desktop\C# in TÍM\ex2\ex2_4\ex2_4\ex2_4\obj\Debug\net9.0\ref\ex2_4.dll

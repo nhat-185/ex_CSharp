@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_3\\ex2_3\\ex2_3\\program2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|solutionrelative:ex2_3\\program2_3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_3\\ex2_3\\ex2_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|solutionrelative:ex2_3\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_3\\ex2_3\\ex2_3\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|solutionrelative:ex2_3\\staff.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|d:\\desktop\\c# in t\u00EDm\\ex2\\ex2_3\\ex2_3\\ex2_3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{004CD5AF-F58C-44FC-A3DB-E009CFFE0DB5}|ex2_3\\ex2_3.csproj|solutionrelative:ex2_3\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Staff.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Staff.cs",
+              "RelativeDocumentMoniker": "ex2_3\\Staff.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Staff.cs",
+              "RelativeToolTip": "ex2_3\\Staff.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:23:12.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Student.cs",
+              "RelativeDocumentMoniker": "ex2_3\\Student.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Student.cs",
+              "RelativeToolTip": "ex2_3\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:16:10.249Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Person.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Person.cs",
+              "RelativeDocumentMoniker": "ex2_3\\Person.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Person.cs",
+              "RelativeToolTip": "ex2_3\\Person.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:03:53.773Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "FloatingWindowState": {
+        "Id": "621f12c0-d452-477e-9736-9444020d49dc",
+        "Display": 0,
+        "X": 555,
+        "Y": 248,
+        "Width": 1220,
+        "Height": 554,
+        "WindowState": 0
+      },
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program2_3.cs",
+              "DocumentMoniker": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Program2_3.cs",
+              "RelativeDocumentMoniker": "ex2_3\\Program2_3.cs",
+              "ToolTip": "D:\\Desktop\\C# in T\u00CDM\\ex2\\ex2_3\\ex2_3\\ex2_3\\Program2_3.cs",
+              "RelativeToolTip": "ex2_3\\Program2_3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T18:33:43.229Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
